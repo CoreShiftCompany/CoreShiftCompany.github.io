@@ -1,2 +1,1 @@
-# CoreShiftCompany.github.io
-CoreShift Company website
+Welcome to CoreShift repo
